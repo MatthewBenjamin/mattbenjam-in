@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://mattbenjamin.in',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Matt Benjamin - Software Engineer',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Matt Benjamin',
+    photo: 'https://www.gravatar.com/avatar/2e168efb7b8907e0d58920fd7d07e3f8/?default=https%3A%2F%2Fd228am55mqbj0t.cloudfront.net%2Fdefaults%2Fgreen-MB.png&size=75',
+    bio: 'Senior Javascript Engineer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
+      email: 'matt@mattbenjamin.dev',
+      facebook: '',
+      telegram: '',
+      twitter: 'mattsbeenjamin',
+      github: 'MatthewBenjamin',
+      rss: '#',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'matthewgbenjamin',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
